@@ -100,12 +100,12 @@ namespace Proyecto_cursos
             fCargarInstituto.ShowDialog();
             if (fCargarInstituto.DialogResult == DialogResult.OK)
             {
-                MessageBox.Show("Nueva institución agregada", "Información", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                MessageBox.Show("Una nueva institución fue agregada", "Información", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 ActualizarInstituciones();
             }
             else
             {
-                MessageBox.Show("Nueva institución cancelado", "Información", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                MessageBox.Show("Una nueva institución fue agregada", "Información", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
             }
         }
