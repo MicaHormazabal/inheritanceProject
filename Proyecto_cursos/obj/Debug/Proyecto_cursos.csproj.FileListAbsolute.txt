@@ -1,0 +1,63 @@
+C:\Users\Mica\Desktop\Tecnicatura\2do año\Diseño y Desarrollo de la Programación Administrativa\practica\TP 3\Proyecto_cursos\Proyecto_cursos\obj\Debug\Proyecto_cursos.csproj.AssemblyReference.cache
+C:\Users\Mica\Desktop\Tecnicatura\2do año\Diseño y Desarrollo de la Programación Administrativa\practica\TP 3\Proyecto_cursos\Proyecto_cursos\obj\Debug\Proyecto_cursos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mica\Desktop\Tecnicatura\2do año\Diseño y Desarrollo de la Programación Administrativa\practica\TP 3\Proyecto_cursos\Proyecto_cursos\obj\Debug\Proyecto_cursos.fAgregar.resources
+C:\Users\Mica\Desktop\Tecnicatura\2do año\Diseño y Desarrollo de la Programación Administrativa\practica\TP 3\Proyecto_cursos\Proyecto_cursos\obj\Debug\Proyecto_cursos.Form1.resources
+C:\Users\Mica\Desktop\Tecnicatura\2do año\Diseño y Desarrollo de la Programación Administrativa\practica\TP 3\Proyecto_cursos\Proyecto_cursos\obj\Debug\Proyecto_cursos.Properties.Resources.resources
+C:\Users\Mica\Desktop\Tecnicatura\2do año\Diseño y Desarrollo de la Programación Administrativa\practica\TP 3\Proyecto_cursos\Proyecto_cursos\obj\Debug\Proyecto_cursos.csproj.GenerateResource.cache
+C:\Users\Mica\Desktop\Tecnicatura\2do año\Diseño y Desarrollo de la Programación Administrativa\practica\TP 3\Proyecto_cursos\Proyecto_cursos\obj\Debug\Proyecto_cursos.csproj.CoreCompileInputs.cache
+C:\Users\Mica\Desktop\Tecnicatura\2do año\Diseño y Desarrollo de la Programación Administrativa\practica\TP 3\Proyecto_cursos\Proyecto_cursos\bin\Debug\Proyecto_cursos.exe.config
+C:\Users\Mica\Desktop\Tecnicatura\2do año\Diseño y Desarrollo de la Programación Administrativa\practica\TP 3\Proyecto_cursos\Proyecto_cursos\bin\Debug\Proyecto_cursos.exe
+C:\Users\Mica\Desktop\Tecnicatura\2do año\Diseño y Desarrollo de la Programación Administrativa\practica\TP 3\Proyecto_cursos\Proyecto_cursos\bin\Debug\Proyecto_cursos.pdb
+C:\Users\Mica\Desktop\Tecnicatura\2do año\Diseño y Desarrollo de la Programación Administrativa\practica\TP 3\Proyecto_cursos\Proyecto_cursos\obj\Debug\Proyecto_cursos.exe
+C:\Users\Mica\Desktop\Tecnicatura\2do año\Diseño y Desarrollo de la Programación Administrativa\practica\TP 3\Proyecto_cursos\Proyecto_cursos\obj\Debug\Proyecto_cursos.pdb
+C:\Users\Mica\Desktop\Proyecto_cursos\Proyecto_cursos\bin\Debug\Proyecto_cursos.exe.config
+C:\Users\Mica\Desktop\Proyecto_cursos\Proyecto_cursos\bin\Debug\Proyecto_cursos.exe
+C:\Users\Mica\Desktop\Proyecto_cursos\Proyecto_cursos\bin\Debug\Proyecto_cursos.pdb
+C:\Users\Mica\Desktop\Proyecto_cursos\Proyecto_cursos\obj\Debug\Proyecto_cursos.csproj.AssemblyReference.cache
+C:\Users\Mica\Desktop\Proyecto_cursos\Proyecto_cursos\obj\Debug\Proyecto_cursos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mica\Desktop\Proyecto_cursos\Proyecto_cursos\obj\Debug\Proyecto_cursos.Form1.resources
+C:\Users\Mica\Desktop\Proyecto_cursos\Proyecto_cursos\obj\Debug\Proyecto_cursos.Properties.Resources.resources
+C:\Users\Mica\Desktop\Proyecto_cursos\Proyecto_cursos\obj\Debug\Proyecto_cursos.csproj.GenerateResource.cache
+C:\Users\Mica\Desktop\Proyecto_cursos\Proyecto_cursos\obj\Debug\Proyecto_cursos.csproj.CoreCompileInputs.cache
+C:\Users\Mica\Desktop\Proyecto_cursos\Proyecto_cursos\obj\Debug\Proyecto_cursos.exe
+C:\Users\Mica\Desktop\Proyecto_cursos\Proyecto_cursos\obj\Debug\Proyecto_cursos.pdb
+C:\Users\Mica\Desktop\Proyecto_cursos\Proyecto_cursos\obj\Debug\Proyecto_cursos.fInstitucion.resources
+C:\Users\Mica\Desktop\Proyecto_cursos 2\Proyecto_cursos\bin\Debug\Proyecto_cursos.exe.config
+C:\Users\Mica\Desktop\Proyecto_cursos 2\Proyecto_cursos\bin\Debug\Proyecto_cursos.exe
+C:\Users\Mica\Desktop\Proyecto_cursos 2\Proyecto_cursos\bin\Debug\Proyecto_cursos.pdb
+C:\Users\Mica\Desktop\Proyecto_cursos 2\Proyecto_cursos\obj\Debug\Proyecto_cursos.csproj.AssemblyReference.cache
+C:\Users\Mica\Desktop\Proyecto_cursos 2\Proyecto_cursos\obj\Debug\Proyecto_cursos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mica\Desktop\Proyecto_cursos 2\Proyecto_cursos\obj\Debug\Proyecto_cursos.fInstitucion.resources
+C:\Users\Mica\Desktop\Proyecto_cursos 2\Proyecto_cursos\obj\Debug\Proyecto_cursos.Form1.resources
+C:\Users\Mica\Desktop\Proyecto_cursos 2\Proyecto_cursos\obj\Debug\Proyecto_cursos.Properties.Resources.resources
+C:\Users\Mica\Desktop\Proyecto_cursos 2\Proyecto_cursos\obj\Debug\Proyecto_cursos.csproj.GenerateResource.cache
+C:\Users\Mica\Desktop\Proyecto_cursos 2\Proyecto_cursos\obj\Debug\Proyecto_cursos.csproj.CoreCompileInputs.cache
+C:\Users\Mica\Desktop\Proyecto_cursos 2\Proyecto_cursos\obj\Debug\Proyecto_cursos.exe
+C:\Users\Mica\Desktop\Proyecto_cursos 2\Proyecto_cursos\obj\Debug\Proyecto_cursos.pdb
+C:\Users\Mica\Desktop\Proyecto_cursos 2\Proyecto_cursos\obj\Debug\Proyecto_cursos.fCurso.resources
+C:\Users\disenio\Downloads\Proyecto_cursos Mica\Proyecto_cursos\bin\Debug\Proyecto_cursos.exe.config
+C:\Users\disenio\Downloads\Proyecto_cursos Mica\Proyecto_cursos\bin\Debug\Proyecto_cursos.exe
+C:\Users\disenio\Downloads\Proyecto_cursos Mica\Proyecto_cursos\bin\Debug\Proyecto_cursos.pdb
+C:\Users\disenio\Downloads\Proyecto_cursos Mica\Proyecto_cursos\obj\Debug\Proyecto_cursos.csproj.AssemblyReference.cache
+C:\Users\disenio\Downloads\Proyecto_cursos Mica\Proyecto_cursos\obj\Debug\Proyecto_cursos.csproj.SuggestedBindingRedirects.cache
+C:\Users\disenio\Downloads\Proyecto_cursos Mica\Proyecto_cursos\obj\Debug\Proyecto_cursos.fCurso.resources
+C:\Users\disenio\Downloads\Proyecto_cursos Mica\Proyecto_cursos\obj\Debug\Proyecto_cursos.fInstitucion.resources
+C:\Users\disenio\Downloads\Proyecto_cursos Mica\Proyecto_cursos\obj\Debug\Proyecto_cursos.Form1.resources
+C:\Users\disenio\Downloads\Proyecto_cursos Mica\Proyecto_cursos\obj\Debug\Proyecto_cursos.Properties.Resources.resources
+C:\Users\disenio\Downloads\Proyecto_cursos Mica\Proyecto_cursos\obj\Debug\Proyecto_cursos.csproj.GenerateResource.cache
+C:\Users\disenio\Downloads\Proyecto_cursos Mica\Proyecto_cursos\obj\Debug\Proyecto_cursos.csproj.CoreCompileInputs.cache
+C:\Users\disenio\Downloads\Proyecto_cursos Mica\Proyecto_cursos\obj\Debug\Proyecto_cursos.exe
+C:\Users\disenio\Downloads\Proyecto_cursos Mica\Proyecto_cursos\obj\Debug\Proyecto_cursos.pdb
+C:\Users\Mica\Downloads\Proyecto_cursos Mica\Proyecto_cursos\bin\Debug\Proyecto_cursos.exe.config
+C:\Users\Mica\Downloads\Proyecto_cursos Mica\Proyecto_cursos\bin\Debug\Proyecto_cursos.exe
+C:\Users\Mica\Downloads\Proyecto_cursos Mica\Proyecto_cursos\bin\Debug\Proyecto_cursos.pdb
+C:\Users\Mica\Downloads\Proyecto_cursos Mica\Proyecto_cursos\obj\Debug\Proyecto_cursos.csproj.AssemblyReference.cache
+C:\Users\Mica\Downloads\Proyecto_cursos Mica\Proyecto_cursos\obj\Debug\Proyecto_cursos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mica\Downloads\Proyecto_cursos Mica\Proyecto_cursos\obj\Debug\Proyecto_cursos.fCurso.resources
+C:\Users\Mica\Downloads\Proyecto_cursos Mica\Proyecto_cursos\obj\Debug\Proyecto_cursos.fInstitucion.resources
+C:\Users\Mica\Downloads\Proyecto_cursos Mica\Proyecto_cursos\obj\Debug\Proyecto_cursos.Form1.resources
+C:\Users\Mica\Downloads\Proyecto_cursos Mica\Proyecto_cursos\obj\Debug\Proyecto_cursos.Properties.Resources.resources
+C:\Users\Mica\Downloads\Proyecto_cursos Mica\Proyecto_cursos\obj\Debug\Proyecto_cursos.csproj.GenerateResource.cache
+C:\Users\Mica\Downloads\Proyecto_cursos Mica\Proyecto_cursos\obj\Debug\Proyecto_cursos.csproj.CoreCompileInputs.cache
+C:\Users\Mica\Downloads\Proyecto_cursos Mica\Proyecto_cursos\obj\Debug\Proyecto_cursos.exe
+C:\Users\Mica\Downloads\Proyecto_cursos Mica\Proyecto_cursos\obj\Debug\Proyecto_cursos.pdb
